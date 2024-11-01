@@ -1,0 +1,1 @@
+#Case8:Custom toolkits handle strings and files

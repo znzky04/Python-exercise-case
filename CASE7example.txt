@@ -1,0 +1,7 @@
+name,date,fans,type,band
+Kasumi,7-14,vocal,ppp
+Arisa,10-27,keyboard,ppp
+Saya,5-19,drummer,ppp
+Kokoro,8-8,vocal,hhw
+Lisa,8-25,bass,roselia
+Yukina,10-26,vocal,roselia
